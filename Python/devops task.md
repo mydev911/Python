@@ -1,3 +1,6 @@
+## Python Script prastic
+#### https://www.w3resource.com/python-exercises/file/index.php
+
 ### How to run a Python Script
 ### Python Basics and Flow Control
 ### nPython Functions
